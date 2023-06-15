@@ -47,6 +47,8 @@ Shall we rendezvous in the digital realm? You can reach me at the interstellar c
 
 🌌 Ready to embark on an *intergalactic journey*, I eagerly look forward to connecting with passionate souls as we pave the way for <span style="background-image: linear-gradient(to right, #26a0da, #35dadb); color: transparent; -webkit-background-clip: text; background-clip: text;">extraordinary ventures beyond the limits of imagination</span>!
 
-<!--
-"Space: the final frontier." - Captain James T. Kirk
--->
+<kbd>
+<p align="center">
+   <b>"Space: the final frontier." - Captain James T. Kirk</b>
+</p>
+</kbd>
